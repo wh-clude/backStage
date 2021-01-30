@@ -1,0 +1,10 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #f2f2f2;
+  overflow: hidden;
+}
+.container .demo-ruleForm {
+  width: 360px;
+  margin: 200px auto;
+}
